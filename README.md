@@ -1,2 +1,2 @@
-# ci-jeasyui
+# cijeasyui
 membuat crud codeigniter dengan jeasyui
